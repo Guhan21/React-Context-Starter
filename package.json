@@ -1,8 +1,8 @@
 {
-  "name": "api-with-context-hooks",
+  "name": "React-Context-Starter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Guhan21.github.io/React-Context-Starter",
+  "homepage": "https://Guhan21.github.io/React-Context-Starter",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
