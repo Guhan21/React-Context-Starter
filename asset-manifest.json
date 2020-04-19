@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Context-Starter/static/css/main.facfd19c.chunk.css",
+    "main.js": "/React-Context-Starter/static/js/main.836f62ee.chunk.js",
+    "main.js.map": "/React-Context-Starter/static/js/main.836f62ee.chunk.js.map",
+    "runtime-main.js": "/React-Context-Starter/static/js/runtime-main.20888cc8.js",
+    "runtime-main.js.map": "/React-Context-Starter/static/js/runtime-main.20888cc8.js.map",
+    "static/js/2.cc2e7eca.chunk.js": "/React-Context-Starter/static/js/2.cc2e7eca.chunk.js",
+    "static/js/2.cc2e7eca.chunk.js.map": "/React-Context-Starter/static/js/2.cc2e7eca.chunk.js.map",
+    "index.html": "/React-Context-Starter/index.html",
+    "precache-manifest.20c6abcc6e3540c7f422c5b0f5e0e0bc.js": "/React-Context-Starter/precache-manifest.20c6abcc6e3540c7f422c5b0f5e0e0bc.js",
+    "service-worker.js": "/React-Context-Starter/service-worker.js",
+    "static/css/main.facfd19c.chunk.css.map": "/React-Context-Starter/static/css/main.facfd19c.chunk.css.map",
+    "static/js/2.cc2e7eca.chunk.js.LICENSE.txt": "/React-Context-Starter/static/js/2.cc2e7eca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20888cc8.js",
+    "static/js/2.cc2e7eca.chunk.js",
+    "static/css/main.facfd19c.chunk.css",
+    "static/js/main.836f62ee.chunk.js"
+  ]
+}
