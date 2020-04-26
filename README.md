@@ -1,3 +1,5 @@
+React Context Setup illustrated via GitHub user finder.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
